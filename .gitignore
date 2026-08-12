@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/
+.agents/
+.claude/
+
+# Ignore generated CSV data
+churn_data.csv
